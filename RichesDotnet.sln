@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RichesDotnet", "RichesDotnet", "{C4C7AFF6-A37E-4E9D-876E-E00787118B1A}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		TargetFrameworkMoniker = ".NETFramework,Version%4.8"
 		Debug.AspNetCompiler.VirtualPath = "/RichesDotnet"
 		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\hp_la_chouffe\rules\scratch\RichesDotnet\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\RichesDotnet\"
